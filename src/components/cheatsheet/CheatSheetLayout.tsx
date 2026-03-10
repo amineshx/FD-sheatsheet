@@ -1,5 +1,3 @@
-"use client"
-
 import { pandasCheatsheet } from "../../data/pandasCheatsheet"
 import CheatSidebar from "./CheatSidebar"
 import CheatMobileSidebar from "./CheatMobileSidebar"

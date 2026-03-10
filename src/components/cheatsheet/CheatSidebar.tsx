@@ -1,5 +1,3 @@
-"use client"
-
 import { Github, Search } from "lucide-react"
 import useActiveSection from "../../hooks/useActiveSection"
 

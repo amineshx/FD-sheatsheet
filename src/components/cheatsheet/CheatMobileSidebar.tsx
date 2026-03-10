@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import { Menu, X, Search } from "lucide-react"
 import useActiveSection from "../../hooks/useActiveSection"
